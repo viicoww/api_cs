@@ -1,15 +1,23 @@
-  "cadastro": [
+  "clientes_cs": [
     {
-      "id": "99999999999",
-      "nome": "Victor Bracini",
-      "endereco": "Rus dos Testes 01, Avenida CODE7",
-      "ativo": "nao"
+      "id": "11.376.287/0001-75",
+      "nome_cliente": "GAMA",
+      "cs_ativo": "nao"
     },
-    {
-      "id": "03003003003",
-      "nome": "Fulano de tal",
-      "endereco": "Rua dos fulanos, bairo dos ciclanos",
-      "ativo": "nao"
+     {
+      "id": "28.825.303/0001-62",
+      "nome_cliente": "AD BOUTIQUE",
+      "cs_ativo": "nao"
+    },
+     {
+      "id": "28.844.791/0001-55",
+      "nome_cliente": "UNIRB",
+      "cs_ativo": "nao"
+    },
+     {
+      "id": "33.599.671/0001-70",
+      "nome_cliente": "SECOVI RJ",
+      "cs_ativo": "nao"
     }
   ],
   "profile": {
