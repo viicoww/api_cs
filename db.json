@@ -1,22 +1,22 @@
 {
   "clientes_cs": [
     {
-      "id": "11.376.287/0001-75",
+      "id": "11376287000175",
       "nome_cliente": "GAMA",
       "cs_ativo": "nao"
     },
      {
-      "id": "28.825.303/0001-62",
+      "id": "28825303000162",
       "nome_cliente": "AD BOUTIQUE",
       "cs_ativo": "nao"
     },
      {
-      "id": "28.844.791/0001-55",
+      "id": "28844791000155",
       "nome_cliente": "UNIRB",
       "cs_ativo": "nao"
     },
      {
-      "id": "33.599.671/0001-70",
+      "id": "33599671000170",
       "nome_cliente": "SECOVI RJ",
       "cs_ativo": "nao"
     }
