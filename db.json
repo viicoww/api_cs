@@ -1,0 +1,18 @@
+  "cadastro": [
+    {
+      "id": "99999999999",
+      "nome": "Victor Bracini",
+      "endereco": "Rus dos Testes 01, Avenida CODE7",
+      "ativo": "nao"
+    },
+    {
+      "id": "03003003003",
+      "nome": "Fulano de tal",
+      "endereco": "Rua dos fulanos, bairo dos ciclanos",
+      "ativo": "nao"
+    }
+  ],
+  "profile": {
+    "name": "viicoww"
+  }
+}
